@@ -4,7 +4,7 @@
 
 <h3>👋 Contributor:</h3>
 
-- 🌱 Zidan Alfa Permana: **XI/PPLG-3/29**
+- 🌱 Feri Ferdianto: **XI/PPLG-3/10**
 
 <h3>📱 Menggunakan State Management Provider</h3>
 <p>Aplikasi Notepad ini menggunakan Provider sebagai solusi manajemen state.</p>
